@@ -13,3 +13,13 @@
 
 2. Run:
    streamlit run dashboard.py
+
+## Architecture
+Data Source → Text Cleaning → Sentiment Analysis → Trend Visualization
+
+## Data Collection Process
+1. tried with reddit api but api was not provided
+2. twitter 
+3. twitter fails use fall back mock data
+
+
